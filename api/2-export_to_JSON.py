@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+Python script that exports an employee's TODO list progress
+in JSON format using a REST API.
+"""
 import json
 import requests
 import sys
